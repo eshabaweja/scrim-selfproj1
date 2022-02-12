@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scrim-selfproj1/static/css/main.4b48a4c0.css",
+    "main.js": "/scrim-selfproj1/static/js/main.8b077640.js",
+    "static/js/787.a7626152.chunk.js": "/scrim-selfproj1/static/js/787.a7626152.chunk.js",
+    "static/media/figure-dark-outlined.jpg": "/scrim-selfproj1/static/media/figure-dark-outlined.9d6e3808868c9fa0788d.jpg",
+    "index.html": "/scrim-selfproj1/index.html",
+    "main.4b48a4c0.css.map": "/scrim-selfproj1/static/css/main.4b48a4c0.css.map",
+    "main.8b077640.js.map": "/scrim-selfproj1/static/js/main.8b077640.js.map",
+    "787.a7626152.chunk.js.map": "/scrim-selfproj1/static/js/787.a7626152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b48a4c0.css",
+    "static/js/main.8b077640.js"
+  ]
+}
